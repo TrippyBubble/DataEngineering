@@ -11,7 +11,7 @@ from aiogram.fsm.state import State, StatesGroup
 from os import path
 
 
-TOKEN = 'YourToken'
+TOKEN = '8142362870:AAErTVNzTRrG_eSlUs3MF6d8KEdhEfdjizs'
 needs = FSInputFile(path.join('data', 'Screenshot 2025-01-14 at 02.11.09.png'))
 
 

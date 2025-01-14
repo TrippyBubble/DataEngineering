@@ -1,2 +1,2 @@
 mol_id,smiles,A,B,C,mu,alpha,homo,lumo,gap,r2,zpve,u0,u298,h298,g298,cv,u0_atom,u298_atom,h298_atom,g298_atom
-0,CC(C)N(C)C(C)C#N,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+0,CCC1C2OC2C1O,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9

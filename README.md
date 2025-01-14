@@ -32,6 +32,15 @@
 ### main.py
 - Запустить файл.
 
+## Работоспособность
+Запуск пайалайна с бота и ввод данных
+![Gif с ботом](dist/Screen Recording 2025-01-14 at 18.39.29.gif)
+
+Графики
+![Gif с ботом](dist/alpha_histogram.png)
+![Gif с ботом](dist/corr.png)
+![Gif с ботом](dist/heatmap.png)
+![Gif с ботом](dist/mu_histogram.png)
 
 ## Выполнение задач
 
